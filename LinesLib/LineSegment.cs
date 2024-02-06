@@ -24,5 +24,9 @@ namespace LinesLib
         }
 
 
+        public void bool ContainsTest()
+        {
+
+        }
     }
 }
